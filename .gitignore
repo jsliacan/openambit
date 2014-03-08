@@ -4,3 +4,4 @@
 # Ignore temporary and user files
 *~
 *.user
+\#*
